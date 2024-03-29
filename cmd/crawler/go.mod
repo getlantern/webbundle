@@ -1,4 +1,4 @@
-module github.com/getlantern/webbundle/cmd/webbundle
+module github.com/getlantern/webbundle/cmd/crawler
 
 go 1.22.1
 
